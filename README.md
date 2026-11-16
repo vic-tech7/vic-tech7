@@ -16,7 +16,7 @@
 | ------- | ---------- |
 | [**web-calculator**](https://github.com/vic-tech7/web-calculator) | VEC Scientific Web Calculator: a modern scientific calculator with AI assistance, calculation history and a futuristic interface. |
 | **VECTOR AI** | An AI-focused project exploring intelligent tools and AI-powered digital experiences. |
-| **VelvetTone** | A Spotify-inspired music streaming web experience with a modern interface and music discovery features. |
+| **VelvetTone** | A Spotify-inspired music  streaming web experience with a modern interface and music discovery features. |
 | [**VECTOR TECH**](https://vector-tech.netlify.app) | My technology brand: software, websites, apps, AI and digital innovation. |
 
 <div align="center">
